@@ -92,6 +92,7 @@ img {
 
 .cat-card {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .cat-card__image-holder {
